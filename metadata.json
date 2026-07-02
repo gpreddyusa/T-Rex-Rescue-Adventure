@@ -1,0 +1,6 @@
+{
+  "name": "T-Rex Rescue Adventure",
+  "description": "An interactive educational math and phonics game for kids to help a T-Rex rescue animals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
